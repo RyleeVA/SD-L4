@@ -1,5 +1,9 @@
 # Spotted Dick recipe. 
 
+![image](images/SD.jpg)
+
+---
+
 ## Ingrediant list:
 250 grams self raising flour
 a pinch of salt
