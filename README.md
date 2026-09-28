@@ -13,19 +13,21 @@ custard (to serve)
 
 ---
 
-Steps:
-## Step 1: 
+## Steps:
+### Step 1: 
 Put the flour and salt in a bowl. Add the suet, currants, sugar, lemon and orange zest.
 
-## Step 2: 
+### Step 2: 
 Pour in 150ml milk and mix to a firm but moist dough, adding the extra milk if necessary.
 
-## Step 3: 
+### Step 3: 
 Shape into a fat roll about 20cm long. Place on a large rectangle of baking parchment. Wrap loosely to allow for the pudding to rise and tie the ends with string like a Christmas cracker.
 
-## step 4:
+### step 4:
 Place a steamer over a large pan of boiling water, add the pudding to the steamer, cover and steam for 1½ hours. Top up the pan with water from time to time.
 
 
-## Step 5: 
+### Step 5: 
 Remove from the steamer and allow to cool slightly before unwrapping. Serve sliced with custard.
+
+## It's done. Enjoy!
